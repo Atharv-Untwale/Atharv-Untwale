@@ -23,7 +23,7 @@
 
 ## 🤝 Let's get Connected
 <div align="left">
-  <a href="<your-linkedin-profile-url>" target="_blank">
+  <a href="<https://www.linkedin.com/in/atharv-untwale/>" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:<your-email-address>" target="_blank">
