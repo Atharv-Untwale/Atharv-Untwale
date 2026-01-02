@@ -3,11 +3,11 @@
 ## About Me 👤
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Full-stack+Developer)](https://git.io/typing-svg)
 
-🔭 I’m currently working on MU-ACM's open source project
+🔭 I’m currently working on an Event Management System
 
-👯 I’m looking to collaborate on MU-ACM's open source project
+👯 I’m looking to collaborate open source project
 
-🌱 I’m currently learning Angular
+🌱 I’m currently learning Web3 Technologies
 
 💬 Ask me about Tech and Open Source
 
@@ -17,26 +17,22 @@
 
 [![My Skills](https://skillicons.dev/icons?i=java,python,js,ts,cpp,c)](https://skills.thijs.gg)
 
-## ❤️ Session's Attended
-
-- #### Understanding Open Source by MU-ACM & [Atharv Vani](https://www.linkedin.com/in/atharv-vani110/)
-
 ## 🤝 Let's get Connected
 <div align="left">
   <a href="<https://www.linkedin.com/in/atharv-untwale/>" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:<your-email-address>" target="_blank">
+  <a href="mailto:atharvuntwale38@gmiail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/<your-twitter-username>" target="_blank">
+  <a href="https://x.com/atharvuntwale20" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/<your-instagram-username>" target="_blank">
+  <a href="https://www.instagram.com/atharvuntwale/?hl=en" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
   </a>
 </div>
 
 ## 📊 GitHub Stats
 
-![<your-first-name>'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv-Untwale&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
+![<Atharv>'s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Atharv-Untwale&bg_color=1c1c1c&color=e6e6e6&line=e6e6e6&point=c2c2c2&area=true&area_color=c2c2c2&hide_border=true)
